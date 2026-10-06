@@ -49,3 +49,4 @@ cd harness-skills
 | Skill | 说明 |
 |---|---|
 | [systems-thinking](skills/systems-thinking/SKILL.md) | 系统思维：Structure / Function / Process / Context 四维迭代法，分析复杂系统 |
+| [bedtime-reading](skills/bedtime-reading/SKILL.md) | 睡前读物：把访谈/视频/长文素材改写成安静阅读的具体叙事文章，发布到 iCloud「睡前读物」目录 |
